@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Juego del cañón</string>
+    <string name="formato_resultados">Disparos realizados: %1$d\nTiempo total: %2$.1f</string>
+    <string name="reiniciar_juego">Reiniciar el juego</string>
+    <string name="ganaste">¡Ganaste!</string>
+    <string name="perdiste">¡Perdiste!</string>
+    <string name="formato_tiempo_restante">Tiempo restante: %.1f</string>
+</resources>
